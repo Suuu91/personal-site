@@ -1,0 +1,22 @@
+.link{
+  float:right;
+  word-spacing: 15;
+  padding-right: 30;
+}
+
+nav{background-color: rgb(133, 236, 236);
+    border:solid;
+    border-color:black;
+    margin: -8;
+    height: 50;   
+    font-family:cursive;
+    font-size:xx-large;
+    padding: 25;
+    padding-left: 40;
+  } 
+
+  h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50;
+  }
