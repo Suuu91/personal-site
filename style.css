@@ -95,4 +95,35 @@ nav{
     margin-top:-175;
   }
 
+  footer{
+    background-color: skyblue;
+    border:solid;
+    border-color:black;
+    margin:-8;
+    height:30;   
+    font-family:cursive;
+    font-size:xx-large;
+    padding:25;
+    padding-left:40;
+    text-align: center;
+    margin-top: 15;
+    word-spacing:15;
+  }
   
+  #proin, #nam{
+    font-family: monospace;
+    background-color:rgb(179, 165, 206);
+    margin-left: 200;
+    margin-right: 200;
+    border:solid;
+    padding-left: 40;
+    padding-right: 40;
+    height:200;
+    font-size: 17;
+  }
+
+  #nam{
+   margin-top: 50;
+   font-size: 25;
+  }
+
